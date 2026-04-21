@@ -2,53 +2,51 @@
 <br>🔭 I’m currently working on:<br>Building scalable backend systems with Java & Spring Boot, applying Clean Architecture principles.<br><br>🤝 I’m looking to collaborate on:<br>Serious projects involving backend systems, APIs, or cloud-based architectures.<br><br>🧠 I’m looking for help with:<br>Mastering SQL at a deeper level — performance, optimization, and real-world database design.<br><br>🌱 I’m currently learning:<br>Advanced SQL, system design, and transitioning into DevOps (AWS, Docker, CI/CD).<br><br>💬 Ask me about:<br>Backend development, architecture decisions, and structuring production-ready applications.<br><br>⚡ Fun fact:<br>I don’t just learn code — I train like a developer. Discipline, consistency, and deep focus are my edge.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruben_urena1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ruben Ureña) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32643043) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruben.urena.dev@gmail.com) 
 
-# 💻 Tech Stack:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ruben-Urena&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ruben-Urena&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ruben-Urena&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Copy-paste in your Readme.md file -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ruben-Urena&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ruben-Urena&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Ruben-Urena&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
-
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
+<a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="373" height="auto">
+    <img alt="Top Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="373" height="auto">
+  </picture>
 </a>
-</div>
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="815" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Pushes and Commits of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 

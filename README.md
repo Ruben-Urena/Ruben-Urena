@@ -1,94 +1,115 @@
-<!--horizontal divider(gradiant)-->
-
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hi , I'm Ruben Ureña </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Ruben Ureña
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ruben+%7C+Backend+Developer;Java+%2B+Spring+Boot;Clean+Architecture;Focused+on+Building+Reliable+Systems">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=22&center=true&vCenter=true&width=600&height=80&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Clean+Architecture+%26+System+Design;Building+Reliable%2C+Scalable+Systems;Always+Learning.+Always+Shipping." alt="Typing SVG">
   </a>
 </p>
 
-
-
-# 💫 About Me:
-<br>
-🔭 I’m currently working on:<br>Building scalable backend systems with Java & Spring Boot, applying Clean Architecture principles.<br><br>🤝 I’m looking to collaborate on:<br>Serious projects involving backend systems, APIs, or cloud-based architectures.<br><br>🧠 I’m looking for help with:<br>Mastering SQL at a deeper level — performance, optimization, and real-world database design.<br><br>🌱 I’m currently learning:<br>Advanced SQL, system design, and transitioning into DevOps (AWS, Docker, CI/CD).<br><br>💬 Ask me about:<br>Backend development, architecture decisions, and structuring production-ready applications.<br><br>⚡ Fun fact:<br>I don’t just learn code — I train like a developer. Discipline, consistency, and deep focus are my edge.
-
-<h1>
-  
-</h1>
-
-<br><br>
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,github,java,spring,maven,linux,mysql,postman&perline=14" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ruben-Urena&style=flat-square&color=0E75B6&label=Profile+Views" alt="profile views"/>
 </p>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Repository Insights </b>
-<!-- Copy-paste in your Readme.md file -->
-
-
-<!-- Hero (grande) -->
-<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1157619984&image_size=auto" width="100%" />
-
-<br/>
-
-<!-- Grid principal -->
-| Top Contributors | Pushes & Commits |
-| ----------- | ----------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=1157619984&image_size=auto" width="100%" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1157619984&image_size=auto" width="100%" /> |
-
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=1157619984&image_size=auto" width="100%" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=1157619984&image_size=auto" width="100%" /> |
-
-<br/>
-
-<!-- Personal stats -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> 👤 Developer Stats </b>
-
-<img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=210794546&image_size=auto" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-Urena&layout=compact&langs_count=8&bg_color=242331&title_color=ffffff&text_color=ffffff&hide_border=true" width="50%" />
-
-<div align="center">
-
-<div align="center">
-
-## 🌐 Connect with me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<a href="https://www.linkedin.com/in/TU_USER" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-242331?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=242331" height="45"/>
-</a>
+## 💫 About Me
 
-<a href="https://www.instagram.com/TU_USER" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-242331?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=242331" height="45"/>
-</a>
+```java
+public class RubenUreña implements Developer {
 
-<a href="https://www.facebook.com/TU_USER" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-242331?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=242331" height="45"/>
-</a>
+    String role        = "Backend Developer";
+    String[] stack     = { "Java", "Spring Boot", "Clean Architecture" };
+    String[] learning  = { "Advanced SQL", "System Design", "AWS", "Docker", "CI/CD" };
+    String goal        = "Build production-ready, scalable backend systems";
+    String funFact     = "I train like a developer — discipline, consistency, deep focus.";
+}
+```
 
-<a href="https://open.spotify.com/user/TU_USER" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-242331?style=for-the-badge&logo=spotify&logoColor=1ED760&labelColor=242331" height="45"/>
-</a>
+<br>
 
-<a href="https://dev.to/TU_USER" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-242331?style=for-the-badge&logo=devdotto&logoColor=ffffff&labelColor=242331" height="45"/>
-</a>
+- 🔭 **Currently building:** Scalable backend systems with Java & Spring Boot, applying Clean Architecture principles.
+- 🤝 **Looking to collaborate on:** Serious projects involving backend APIs, microservices, or cloud-based architectures.
+- 🧠 **Seeking help with:** Mastering SQL at a deeper level — performance, optimization, and real-world database design.
+- 🌱 **Currently learning:** Advanced SQL, System Design, and transitioning into DevOps (AWS, Docker, CI/CD).
+- 💬 **Ask me about:** Backend development, architecture decisions, and structuring production-ready applications.
 
-</div>
+<br>
 
-<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+**Tools & Environment**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker" />
+</p>
+
+**Currently Exploring**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruben-Urena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Ruben's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruben-Urena&theme=tokyonight&hide_border=true" width="48%" alt="Ruben's Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-Urena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🤝 Connect with Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/ruben-ureña-4349263a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/ruben_urena1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Build systems you're proud of. Ship code that lasts."</i>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

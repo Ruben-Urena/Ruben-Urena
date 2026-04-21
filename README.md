@@ -1,4 +1,5 @@
 <!--horizontal divider(gradiant)-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center"><b>Hi , I'm Ruben Ureña </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -57,6 +58,37 @@
 
 <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=210794546&image_size=auto" width="100%" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-Urena&layout=compact&langs_count=8&bg_color=242331&title_color=ffffff&text_color=ffffff&hide_border=true" width="50%" />
+
+<div align="center">
+
+<div align="center">
+
+## 🌐 Connect with me
+
+<br>
+
+<a href="https://www.linkedin.com/in/TU_USER" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-242331?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=242331" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/TU_USER" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-242331?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=242331" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/TU_USER" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-242331?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=242331" height="45"/>
+</a>
+
+<a href="https://open.spotify.com/user/TU_USER" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-242331?style=for-the-badge&logo=spotify&logoColor=1ED760&labelColor=242331" height="45"/>
+</a>
+
+<a href="https://dev.to/TU_USER" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-242331?style=for-the-badge&logo=devdotto&logoColor=ffffff&labelColor=242331" height="45"/>
+</a>
+
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
